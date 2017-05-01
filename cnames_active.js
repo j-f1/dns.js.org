@@ -468,6 +468,7 @@ var cnames_active = {
 ,"mythbusters": "kikobeats.github.io/js-mythbusters"
 ,"n": "customdomain.simpleshare.online" //noCF
 ,"n-j-m": "n-j-m.github.io" //noCF? (don´t add this in a new PR)
+,"nails": "artofcode-.github.io"
 ,"nanimation": "imthenachoman.github.io/nAnimation" //noCF? (don´t add this in a new PR)
 ,"naughtychecker":"gautamkrishnar.github.io/naughtychecker.js"
 ,"ncms": "janbiasi.github.io/ncms" //noCF? (don´t add this in a new PR)
